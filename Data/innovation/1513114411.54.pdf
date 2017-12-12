@@ -1,0 +1,473 @@
+<!DOCTYPE html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--><!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title>Oops, Page Not Found | University of South Florida</title>
+   
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link type="text/css" rel="stylesheet" media="screen" href="/_resources/css/v2/global-styles.css?ver=0.1" />
+<link type="text/css" rel="stylesheet" media="screen" href="/_resources/css/applications.css?ver=0.1" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/_resources/js/v2/functions.js"></script>
+
+   
+   
+   
+   
+   <meta name="Description" content="This error appears when a page cannot be found on USF.edu.  From this page, visitors can use the search bar in the header to find their way.">
+   
+   <meta name="Keywords" content="">
+   
+   <meta name="Author" content="University of South Florida">
+   
+   
+   
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4290684-1']);
+  _gaq.push(['_setDomainName', 'usf.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+               
+                _gaq.push(['account2._setAccount', 'UA-4290684-23']);
+                _gaq.push(['account2._setDomainName', 'usf.edu']);
+                _gaq.push(['account2._trackPageview']);
+                
+            </script><script type="text/javascript">
+        	var calURL = "#";
+        	function change_calURL(calPath, guid, recID)
+        	{
+			calURL = "http://webcal.forest.usf.edu/cal/event/eventView.do?b%3Dde%26calPath%3D" + calPath + "%26guid%3D" + guid + "%26recurrenceId%3D" + recID;
+        		calURL = decodeURIComponent(calURL);
+        	}
+       </script><script type="text/javascript">
+		var page_id="http://www.usf.edu/system-error/error.aspx";
+		</script>
+   
+   
+   </head>
+<body>
+   <header role="banner"><a class="skipLink" href="#content">Skip to Main Content</a><div class="global u-wrapper u-clearfix">
+         <h1 class="global_logo global_logo--space"><a href="/"><img src="/_resources/images/v2/global/header/header-logo.png" alt="University of South Florida"></a></h1>
+         <div class="global_tools global_tools--space u-clearfix">
+            
+            <ul>
+	<li><a href="https://my.usf.edu/">MyUSF</a></li>
+	<li><a href="http://www.usf.edu/about-usf/web-tools.aspx">Web Tools</a></li>
+	<li><a href="http://directory.usf.edu/">Directory</a></li>
+</ul>
+<form class="global_search" method="get" action="http://search.usf.edu/search" role="search">
+	<label class="hidden" for="site-search-input">Search for: </label>
+	<input id="site-search-input" type="text" name="q" size="20" maxlength="256" value="" />
+	<input id="site-search-submit" type="image" src="/_resources/images/v2/global/search/search.png" alt="Go" />
+	<input type="hidden" name="client" value="tampa" />
+	<input type="hidden" name="proxystylesheet" value="usf-edu-cms-v2" />
+	<input type="hidden" name="site" value="tampa" />
+	<input type="hidden" name="output" value="xml_no_dtd" />
+	<input type="hidden" name="numgm" value="5" />
+</form>
+
+            
+         </div>
+      </div>
+      <nav class="mainNav mainNav--reverse" role="navigation">
+   <div class="u-wrapper">
+      <p class="mainNav_toggle toggle">Navigation</p>
+      <ul class="mainNav_menu toggle-content mainNav--five">
+         <li class="mainNav_item has-subNav">
+            <div class="subNav_toggle toggle">About USF<img class="subNav_image" src="/_resources/images/global/header/main-navigation/main-navigation-arrow.png" alt=""></div>
+            <div class="subNav">
+               <div class="subNav_interior">
+                  <div class="grid">
+                     
+                     <ul class="subNav_group grid-lg-1-4"><li><a href="http://www.usf.edu/about-usf/index.aspx">Overview</a></li>
+<li><a href="http://www.usf.edu/about-usf/mission-vision.aspx">Mission and Vision</a></li>
+<li><a href="http://www.usf.edu/about-usf/history-traditions.aspx">History and Traditions</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/about-usf/facts-statistics.aspx">Facts and Statistics</a></li>
+<li><a href="http://www.usf.edu/about-usf/student-consumer-information.aspx">Student Consumer Information</a></li>
+<li><a href="http://www.usf.edu/about-usf/leadership.aspx">Leadership</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/about-usf/accreditation.aspx">Accreditation</a></li>
+<li><a href="http://www.usf.edu/about-usf/community-resources.aspx">Community Resources</a></li>
+<li><a href="http://www.usf.edu/work-at-usf/">Work at USF</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/about-usf/visit-usf.aspx">Visit USF</a></li>
+<li><a href="http://www.usf.edu/about-usf/contact-usf.aspx">Contact USF</a></li></ul>
+                     
+                  </div>
+               </div>
+            </div>
+         </li>
+         <li class="mainNav_item has-subNav">
+            <div class="subNav_toggle toggle">Academics<img class="subNav_image" src="/_resources/images/global/header/main-navigation/main-navigation-arrow.png" alt=""></div>
+            <div class="subNav">
+               <div class="subNav_interior">
+                  <div class="grid">
+                     
+                     <ul class="subNav_group grid-lg-1-4"><li><a href="http://www.usf.edu/academics/index.aspx">Overview</a></li>
+<li><a href="http://www.usf.edu/academics/colleges.aspx">Colleges</a></li>
+<li><a href="http://usfweb.usf.edu/academics/undergraduate-majors.aspx">Undergraduate Majors</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://usfweb.usf.edu/academics/graduate-programs.aspx">Graduate Programs</a></li>
+<li><a href="http://www.usf.edu/academics/courses-calendar.aspx">Courses and Calendar</a></li>
+<li><a href="http://www.usf.edu/academics/undergraduate-graduate-studies.aspx">Undergraduate and Graduate Studies</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/academics/academic-resources.aspx">Academic Resources</a></li>
+<li><a href="http://www.usf.edu/academics/libraries.aspx">Libraries</a></li></ul>
+                     
+                  </div>
+               </div>
+            </div>
+         </li>
+         <li class="mainNav_item has-subNav">
+            <div class="subNav_toggle toggle">Admissions<img class="subNav_image" src="/_resources/images/global/header/main-navigation/main-navigation-arrow.png" alt=""></div>
+            <div class="subNav">
+               <div class="subNav_interior">
+                  <div class="grid">
+                     
+                     <ul class="subNav_group grid-lg-1-4"><li><a href="http://www.usf.edu/admission/index.aspx">Overview</a></li>
+<li><a href="http://www.usf.edu/admission/apply.aspx">Apply</a></li>
+<li><a href="http://www.usf.edu/admission/cost-to-attend.aspx">Cost to Attend</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/admission/scholarships-financial-aid.aspx">Scholarships and Financial Aid</a></li></ul>
+                     
+                  </div>
+               </div>
+            </div>
+         </li>
+         <li class="mainNav_item has-subNav">
+            <div class="subNav_toggle toggle">Campus Life<img class="subNav_image" src="/_resources/images/global/header/main-navigation/main-navigation-arrow.png" alt=""></div>
+            <div class="subNav">
+               <div class="subNav_interior">
+                  <div class="grid">
+                     
+                     <ul class="subNav_group grid-lg-1-4"><li><a href="http://www.usf.edu/campus-life/index.aspx">Overview</a></li>
+<li><a href="http://www.usf.edu/campus-life/campus-resources.aspx">Campus Resources</a></li>
+<li><a href="http://www.usf.edu/campus-life/housing-dining.aspx">Housing and Dining</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/campus-life/technology-resources.aspx">Technology Resources</a></li>
+<li><a href="http://www.usf.edu/campus-life/financial-resources.aspx">Financial Resources</a></li>
+<li><a href="http://www.usf.edu/campus-life/health-safety.aspx">Health and Safety</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/campus-life/internships-student-employment.aspx">Internships and Student Employment</a></li>
+<li><a href="http://www.usf.edu/campus-life/activities-programs.aspx">Activities and Programs</a></li>
+<li><a href="http://www.usf.edu/campus-life/arts-culture.aspx">Arts and Culture</a></li></ul><ul class="subNav_group grid-lg-1-4">
+<li><a href="http://www.usf.edu/campus-life/athletics-fitness.aspx">Athletics and Fitness</a></li>
+<li><a href="http://www.usf.edu/campus-life/graduation-preparation.aspx">Graduation Preparation</a></li></ul>
+                     
+                  </div>
+               </div>
+            </div>
+         </li>
+         <li class="mainNav_item has-subNav">
+            <div class="subNav_toggle toggle">Research<img class="subNav_image" src="/_resources/images/global/header/main-navigation/main-navigation-arrow.png" alt=""></div>
+            <div class="subNav">
+               <div class="subNav_interior">
+                  <div class="grid">
+                     
+                     <ul class="subNav_group grid-lg-1-4"><li><a href="http://www.usf.edu/research/index.aspx">Overview</a></li>
+<li><a href="http://www.usf.edu/research/research-innovation.aspx">Research &amp; Innovation</a></li>
+<li><a href="http://www.usf.edu/research/student-research.aspx">Student Research</a></li></ul>
+                     
+                  </div>
+               </div>
+            </div>
+         </li>
+      </ul>
+   </div>
+</nav>
+   </header>
+   <div id="content" class="content container" role="main">
+      <h1 class="page-title-plain-text">Page Not Found</h1>
+      <div class="application">
+         
+         
+         
+         
+         <p>The page you were trying to access was not found. It is no longer available, or has
+            been moved.
+            <!-- EDITABLE SECTION -->
+            <!-- END EDITABLE SECTION -->
+         </p>
+         
+         <p>Please review the site map below or use the search bar in the header of this page
+            to locate the information you were looking for.
+         </p>
+         
+         <p>
+            <p><a title="USF Home" href="http://www.usf.edu/index.aspx">Home</a></p>
+            
+            <ul>
+               
+               <li><a title="About USF" href="http://www.usf.edu/about-usf/index.aspx">About USF</a>
+                  
+                  <ul>
+                     
+                     <li><a href="/about-usf/mission-vision.aspx">Mission and Vision</a></li>
+                     
+                     <li><a href="/about-usf/history-traditions.aspx">History and Traditions</a>
+                        
+                        <ul>
+                           
+                           <li><a href="/about-usf/history.aspx">History </a></li>
+                           
+                           <li><a href="/about-usf/traditions.aspx">Traditions </a></li>
+                           
+                        </ul>
+                        
+                     </li>
+                     
+                     <li><a href="/about-usf/facts-statistics.aspx">Facts and Statistics</a>
+                        
+                        <ul>
+                           
+                           <li><a href="/about-usf/points-of-pride.aspx">Points of Pride</a></li>
+                           
+                           <li><a href="/about-usf/strategic-initiatives.aspx">Strategic Initiatives</a></li>
+                           
+                        </ul>
+                        
+                     </li>
+                     
+                     <li><a href="/about-usf/student-consumer-information.aspx">Student Consumer Information</a></li>
+                     
+                     <li><a href="/about-usf/leadership.aspx">Leadership</a>
+                        
+                        <ul>
+                           
+                           <li><a href="/about-usf/administrative-units.aspx">Administrative Units</a></li>
+                           
+                        </ul>
+                        
+                     </li>
+                     
+                     <li><a href="/about-usf/accreditation.aspx">Accreditation</a></li>
+                     
+                     <li><a href="/about-usf/community-resources.aspx">Community Resources</a></li>
+                     
+                     <li><a href="/work-at-usf/index.aspx">Work at USF</a></li>
+                     
+                     <li><a href="/about-usf/web-tools.aspx">Web Tools</a></li>
+                     
+                     <li><a href="/about-usf/visit-usf.aspx">Visit USF</a></li>
+                     
+                     <li><a href="/about-usf/contact-usf.aspx">Contact USF</a></li>
+                     
+                     <li><a href="/about-usf/about-this-site.aspx">About This Site</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+               <li><a href="/academics/index.aspx">Academics</a>
+                  
+                  <ul>
+                     
+                     <li><a href="/academics/colleges.aspx">Colleges</a>
+                        
+                        <ul>
+                           
+                           <li><a href="/arts/index.aspx" target="_blank">Arts</a></li>
+                           
+                           <li><a href="/arts-sciences/index.aspx" target="_blank">Arts and Sciences</a></li>
+                           
+                           <li><a href="/cbcs/index.aspx">Behavioral and Community Sciences</a></li>
+                           
+                           <li><a href="/business/index.aspx">Business</a></li>
+                           
+                           <li><a href="/education/index.aspx">Education</a>&nbsp;(<a href="/education/sitemap.aspx">site map</a>)
+                           </li>
+                           
+                           <li><a href="/engineering/index.aspx">Engineering</a></li>
+                           
+                           <li><a href="/pcgs/index-old.aspx">Global Sustainability</a></li>
+                           
+                           <li><a href="http://www.grad.usf.edu/graduate-studies/" target="_blank">Graduate Studies</a></li>
+                           
+                           <li><a href="http://honors.usf.edu/" target="_blank">Honors</a></li>
+                           
+                           <li><a href="http://www.marine.usf.edu/" target="_blank">Marine Science</a></li>
+                           
+                           <li><a href="http://health.usf.edu/medicine/index.htm" target="_blank">Medicine</a></li>
+                           
+                           <li><a href="http://health.usf.edu/nursing/index.htm" target="_blank">Nursing</a></li>
+                           
+                           <li><a href="http://health.usf.edu/nocms/pharmacy/" target="_blank">Pharmacy</a></li>
+                           
+                           <li><a href="http://health.usf.edu/publichealth/index.htm" target="_blank">Public Health</a></li>
+                           
+                        </ul>
+                        
+                     </li>
+                     
+                     <li><a href="http://usfweb.usf.edu/Academics/undergraduate-majors.aspx">Undergraduate Majors</a></li>
+                     
+                     <li><a href="http://usfweb.usf.edu/Academics/graduate-programs.aspx">Graduate Programs</a></li>
+                     
+                     <li><a href="/academics/courses-calendar.aspx">Courses and Calendar</a></li>
+                     
+                     <li><a href="/academics/undergraduate-graduate-studies.aspx">Undergraduate Studies and Graduate School</a></li>
+                     
+                     <li><a href="/academics/academic-resources.aspx">Academic Resources</a></li>
+                     
+                     <li><a href="/academics/libraries.aspx">Libraries</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+               <li><a href="/admission/index.aspx">Admissions</a>
+                  
+                  <ul>
+                     
+                     <li><a href="/admission/apply.aspx">Apply</a></li>
+                     
+                     <li><a href="/admission/cost-to-attend.aspx">Cost to Attend</a></li>
+                     
+                     <li><a href="/admission/scholarships-financial-aid.aspx">Scholarships and Financial Aid</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+               <li><a href="/campus-life/index.aspx">Campus Life</a>
+                  
+                  <ul>
+                     
+                     <li><a title="Campus Resources" href="/campus-life/campus-resources.aspx">Campus Resources</a></li>
+                     
+                     <li><a href="/campus-life/housing-dining.aspx">Housing and Dining</a></li>
+                     
+                     <li><a href="/campus-life/technology-resources.aspx">Technology Resources</a></li>
+                     
+                     <li><a href="/campus-life/financial-resources.aspx">Financial Resources</a></li>
+                     
+                     <li><a href="/campus-life/health-safety.aspx">Health and Safety</a></li>
+                     
+                     <li><a href="/campus-life/internships-student-employment.aspx">Internships and Student Employment</a></li>
+                     
+                     <li><a href="/campus-life/activities-programs.aspx">Activities and Programs</a></li>
+                     
+                     <li><a href="/campus-life/arts-culture.aspx">Arts and Culture</a></li>
+                     
+                     <li><a href="/campus-life/athletics-fitness.aspx">Athletics and Fitness</a></li>
+                     
+                     <li><a href="/campus-life/graduation-preparation.aspx">Graduation Preparation</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+               <li><a href="/research/index.aspx">Research</a>
+                  
+                  <ul>
+                     
+                     <li><a href="/research/research-innovation.aspx">Research and Innovation</a></li>
+                     
+                     <li><a href="/research/student-research.aspx">Student Research</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+               <li><a href="http://system.usf.edu" target="_blank">USF System</a>
+                  
+                  <ul>
+                     
+                     <li><a href="http://usfsm.edu/" target="_blank">USF Sarasota-Manatee</a></li>
+                     
+                     <li><a href="http://www.usfsp.edu/home/" target="_blank">USF St. Petersburg</a></li>
+                     
+                  </ul>
+                  
+               </li>
+               
+            </ul>
+            
+            <p><a href="/administrative-services/parking/index.aspx"><br></a><strong>Other Commonly Visited Sites:<br></strong><br><a href="/registrar/index.aspx">Office of the Registrar</a><br><a href="/work-at-usf/index.aspx">Work at USF</a><br><a href="/administrative-services/parking/index.aspx">Parking and Transportation</a><a href="/administrative-services/index.aspx" target="_blank"><br></a><a href="/career-services/index.aspx" target="_blank">Career Services</a><a href="/administrative-services/index.aspx" target="_blank"><br></a><a href="/it/index.aspx" target="_blank">Information Technology</a><a href="/administrative-services/index.aspx" target="_blank"><br>Administrative Services</a><br> <a href="/innovative-education/index.aspx" target="_blank">Innovative Education </a><br> <a href="/ucm/index.aspx" target="_blank">University Communications and Marketing (UCM)</a></p>
+         </p>
+         
+         
+      </div>
+   </div>
+   <footer class="footer u-wrapper">
+   <div class="grid">
+      <div class="footer_info grid-lg-1-2"><a href="/"><img class="footer_logo" src="/_resources/images/global/footer/footer-logo.png" alt="University of South Florida"></a><p class="footer-copy">Copyright <a id="ou-access" href="#" target="_blank">©</a>&nbsp;2017, University of South Florida. All rights reserved.<br>4202 E. Fowler Avenue,
+            					Tampa, FL 33620, USA • 813-974-2011<br>This website is maintained by <a href="mailto:ucm@usf.edu">University Communications and Marketing</a>.
+            					<br>
+            
+            <a href="/about-usf/about-this-site.aspx">About This Site</a> • <a href="/about-usf/site-map.aspx">Site Map</a> • <a href="/about-usf/contact-usf.aspx">Contact USF</a> • <a href="/about-usf/visit-usf.aspx">Visit&nbsp;USF</a>
+
+            </p>
+         <ul class="footer_social">
+            <li><a target="_blank" href="http://facebook.com/USouthFlorida"><img src="/_resources/images/social-icons/facebook.jpg" alt="facebook"></a></li>
+            <li><a target="_blank" href="http://twitter.com/USouthFlorida"><img src="/_resources/images/social-icons/twitter.jpg" alt="twitter"></a></li>
+            <li><a target="_blank" href="http://www.youtube.com/usfchannel"><img src="/_resources/images/social-icons/youtube.jpg" alt="youtube"></a></li>
+            <li><a target="_blank" href="http://www.linkedin.com/edu/school?id=18130"><img src="/_resources/images/social-icons/linkedin.jpg" alt="linkedin"></a></li>
+            <li><a target="_blank" href="http://www.instagram.com/usouthflorida"><img src="/_resources/images/social-icons/instagram.jpg" alt="instagram"></a></li>
+            <li><a target="_blank" href="/ucm/marketing/snapchat.aspx"><img src="/_resources/images/social-icons/snapchat.jpg" alt="snapchat"></a></li>
+         </ul>
+      </div>
+      <div class="footer_nav grid-lg-1-2">
+         <div class="grid">
+            
+            <ul class="grid-sm-1-3">
+<li><a href="/about-usf/index.aspx">About USF</a></li>
+<li><a href="/academics/index.aspx">Academics</a></li>
+<li><a href="/admission/index.aspx">Admissions</a></li>
+<li><a href="/campus-life/index.aspx">Campus Life</a></li>
+<li><a href="/research/index.aspx">Research</a></li>
+<li><a href="/system/index.aspx">USF System</a></li>
+</ul>
+<ul class="grid-sm-1-3">
+<li><a href="/partner" target="_blank">Partner with USF</a></li>
+<li><a href="/about-usf/administrative-units.aspx">Administrative Units</a></li>
+<li><a href="http://regulationspolicies.usf.edu/regulations-and-policies/regulations-policies-procedures.asp" target="_blank">Regulations &amp; Policies</a></li>
+<li><a href="/hr/index.aspx">Human Resources</a></li>
+<li><a href="/work-at-usf/index.aspx">Work at USF</a></li>
+<li><a href="/administrative-services/emergency-management/index.aspx">Emergency &amp; Safety</a></li>
+</ul>
+
+            
+            <ul class="grid-sm-1-3">
+               <li><a href="http://health.usf.edu/">USF Health</a></li>
+               <li><a href="http://www.gousfbulls.com/">USF Athletics</a></li>
+               <li><a href="http://usfalumni.org/">USF Alumni</a></li>
+               <li><a href="http://www.unstoppable.usf.edu/">Support USF</a></li>
+               <li><a href="http://www.lib.usf.edu/">USF Libraries</a></li>
+               <li><a href="/world/index.aspx">USF World</a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+</footer>
+   <div id="hidden" style="display: none;">
+       <a id="de" href="http://content.usf.edu/10?skin=oucampus&amp;account=USFMainPROD&amp;site=usf_edu&amp;action=de&amp;path=/system-error/error.pcf" > </a>
+   </div><script>
+        				$(document).ready(function(){
+          				var direct_edit_href = $('#de').attr('href');
+          				$('#ou-access').attr('href',direct_edit_href);
+        				});
+        			</script>
+   
+   <script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_1387.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+
+   <script>
+       if( typeof(OUC) == "undefined") { var OUC = {}; }
+       OUC.path = '/system-error/error.aspx';
+       $(document).ready(function(){
+      // $('.secondary-navigation a').removeClass('active');
+         $('.secondary-navigation a[href="'+OUC.path+'"]').addClass('active');  
+       });
+      </script></body></html>

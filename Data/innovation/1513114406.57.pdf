@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /courses/cs295-1/Papers/active.pdf
+on this server.<br />
+Server unable to read htaccess file, denying access to be safe</p>
+<hr>
+<address>Apache/2.4.10 (Debian) Server at cs.brown.edu Port 80</address>
+</body></html>

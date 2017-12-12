@@ -175,7 +175,6 @@ def convert_to_text():
 	print os.getcwd()
 
 	files = glob.glob (".*pdf")
-	print files
 	for f in files:
 		print f
 		cmd = 'pdftotext '+ f + '; rm '+ f
@@ -198,14 +197,22 @@ print '-- ', subdir
 print 'QUERY :' + query
 
 for i in range(num_pages):
+	break
 	print '-----> Page :: ', i+1
 	boolResult = getCiteSeerOnePage(query,i);
 	if not boolResult:
 		print '		[ERROR]  non 200 status code!!!! '	
 		break;
 
+
 convert_to_text()
 
+#target_dir = data_dir +'/'+ subdir
+#cwd = os.getcwd()
+#os.chdir(target_dir)
+#print os.getcwd()
+#subprocess.call('pdftotext *.pdf; rm *.pdf')
+#os.chdir(cwd)
 
 
 

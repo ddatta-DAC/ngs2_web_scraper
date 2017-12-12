@@ -1,0 +1,1478 @@
+American Economic Association
+
+R&D Spillovers and the Geography of Innovation and Production
+Author(s): David B. Audretsch and Maryann P. Feldman
+Source: The American Economic Review, Vol. 86, No. 3 (Jun., 1996), pp. 630-640
+Published by: American Economic Association
+Stable URL: http://www.jstor.org/stable/2118216 .
+Accessed: 30/07/2014 10:25
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+American Economic Association is collaborating with JSTOR to digitize, preserve and extend access to The
+American Economic Review.
+
+http://www.jstor.org
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+R&DSpillovers and the Geography of Innovation
+and Production
+By DAVID B. AUDRETSCH AND MARYANN P. FELDMAN*
+
+More than most othereconomic activities,
+innovationand technologicalchange depend
+upon new economic knowledge.Thus, Paul
+Romer (1986), Paul Krugman(1991a, b),
+and Gene Grossmanand ElhananHelpman
+(1991), among others,have focused on the
+role that spillovers of economic knowledge
+acrossagentsand firmsplay in generatingincreasing returns and ultimately economic
+growth. In fact, several recent studies have
+identifiedthe existence of spatially-mediated
+knowledgespillovers.An importantfindingof
+Adam B. Jaffe (1989), Zoltan Acs et al.
+(1992, 1994), andFeldman(1994a, b) is that
+investmentin R&D by privatecorporations
+and universities"spills over" for third-party
+firmsto exploit.If the abilityto receiveknowledge spilloversis influencedby distancefrom
+the knowledgesource, then geographicconcentrationshould be observed,especially in
+industries where knowledge spillovers are
+likely to play a moreimportantrole. The purpose of this paperis to examinethe extentto
+which industrialactivityclustersspatiallyand
+to linkthisgeographicconcentration
+to the existenceof knowledgeexternalities.Of course,
+
+as Jaffe et al. (1993) point out, one obvious
+explanationwhy innovativeactivity in some
+industriestendsto clustergeographicallymore
+thanin otherindustriesis thatthe locationof
+productionis more concentratedspatially.
+Thus,in explainingwhy the propensityfor innovativeactivityto clustergeographicallyvaries acrossindustries,we need firstto explain,
+and then to controlfor, the geographicconcentrationof the locationof production.
+As Alfred Marshall (1920) and, later
+Krugman(1991b) argue,there may be geographicboundariesto informationflows or
+knowledgespillovers,particularly
+tacitknowledge, among the firms in an industry.Although the cost of transmittinginformation
+may be invariantto distance,presumablythe
+cost of transmitting
+knowledgerises with distance.Thatis, proximityand locationmatter.
+While thereis considerableevidencesupporting the existenceof knowledgespillovers,neitherJaffe(1989), Jaffeet al. (1993), norAcs
+et al. (1992, 1994), andFeldman(1994a) actually examinethe propensityfor innovative
+activityto clusterspatially.But implicitin the
+knowledgeproductionfunctionmodel is the
+assumptionthat innovative activity should
+concentrategeographicallyin those industries
+wherethe directknowledge-generating
+inputs
+* Audretsch:
+are the greatestand where knowledgespillWissenschaftszentrum
+BerlinftirSozialforschungandthe Centrefor EconomicPolicyResearch, overs arethe most prevalent.No one, to date,
+Reichpietschufer
+50, D-10785Berlin,Germany;
+Feldman: hasexaminedtheunderlying
+propensityforinInstitutefor Policy Studies,Johns HopkinsUniversity,
+dustrialactivityto clusterspatially.Whileone
+Baltimore,MD 21218. This article was writtenwhile
+of the centralthemesin the industrialorganiMaryannFeldmanwas visiting at the Heinz School of
+PublicPolicyandManagement,
+CarnegieMellonUniver- zationliterature
+is to explainthedegreeof consity. We thankRichardBaldwin,Paul Krugman,James centrationof economic activity within an
+Markusen,and participantsat the CEPRConferenceon
+industry (F. M. Scherer and David Ross,
+the "Locationof EconomicActivity:New Theoriesand
+1990), the focus has typicallybeen on the exNew Evidence,"17-20 December,1993,Vigo,Spain,for
+theiruseful comments.We also thankJim Adams,Zvi
+tent of dispersionacrossdifferententerprises
+Griliches,Bronwyn Hall, Frank Lichtenberg,Richard and establishmentswithin a single spatial
+NelsonandMike Schererandthe participants
+in the disunit-the country.The emergingimportance
+cussionat the 1995 AEA Meetings.We wouldalso like
+of
+locationas a unitof observationarguesfor
+to thankthe anonymousrefereesforusefulcommentsand
+examining both productionand innovation
+suggestions.Gail CohenShaivitzprovidedinvaluableresearchassistance.
+within a geographiccontext.We empirically
+630
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+VOL. 86 NO. 3
+
+AUDRETSCHAND FELDMAN: GEOGRAPHYOF PRODUCTION
+
+631
+
+test for the importanceof geographiclocation
+to differenttypes of industriesby linkingthe
+geographicconcentration
+in manufacturing
+industries to industry specific characteristics,
+mostnotablytherelativeimportanceof knowledge spillovers.
+In the following section of this paper,we
+examinethe spatialdistributionof innovative
+activityas well as the geographicconcentration of production.An empirical model is
+specified in Section II, and the results are
+presentedin Section HII.In the final section,
+we provide a summaryand conclusion.The
+empiricalevidence suggests that, even after
+controllingfor the degreeof geographicconcentrationin production,innovativeactivity
+tends to cluster more in industries where
+knowledgespilloversplay a decisiverole. Althoughsuch industriesalso tend to exhibit a
+greatergeographicconcentrationof production, the resultssuggestthatthe propensityfor
+innovativeactivityto clusteris more attributable to the role of knowledgespilloversand
+not merely the geographicconcentrationof
+production.
+
+used by Acs and Audretsch(1988, 1990) to
+analyze the relationshipsbetween firm size
+and technologicalchange, and marketstructureand technologicalchange,and by Acs et
+al. (1992, 1994), Feldman(1994a, b), and
+Feldmanand RichardFlorida(1994) to examinethe geographyof innovation.
+We adoptthe stateas the spatialunitof observation.While this is at best a crudeproxy
+of the relevanteconomicmarket,2it does have
+one obviousappealotherthanthatit conforms
+to a numberof data sources-the most relevantunitof policy-makingis at the level of the
+state. Still, statesare certainlynot an entirely
+satisfactoryunitof observationfor theanalysis
+of spatialphenomena.The analysesof spatial
+processesare handicappedby a lack of data
+for what might be consideredto be the ideal
+observation.Certainlyconsiderableprogress
+wouldbe madeif datasourcesidentifyinginnovationactivity at the city or county level
+were madeavailable.
+Using the citation data base described
+above, an innovationis attributedto the state
+in whichthe establishmentresponsiblefor the
+developmentof that innovation is located.
+I. TheSpatialDistribution
+of Innovation
+Some innovationsare, in fact, developedby
+andProduction
+subsidiariesor divisions of companies with
+headquarters
+in other states. Since headquarTo measurethe spatial distributionof in- ters may announcenew productinnovations,
+novative activitywe rely on the most recent the data base discriminatesbetween the loand most ambitiousmajordatabase thatpro- cation of the innovatingestablishmentand
+vides a directmeasureof innovativeactivity. the location of the larger, innovatingentity
+TheUnitedStatesSmallBusinessAdministra- (Edwardsand Gordon, 1984). For our purtion (the SmallBusinessAdministration's
+In- poses, the stateidentifierof the establishment
+novationData Base or the SBIDB) compiled is usedto investigatethe spatialdistributionof
+a database of 8,074 commercialinnovations innovation.Of thetotalnumberof innovations
+introducedin the UnitedStatesin 1982.A pri- recordedin the database, 4,200 were manuvate firm, The FuturesGroup,compiledthe facturinginnovationswith informationspecidata and performedquality control analyses fying location.3
+for the United StatesSmall BusinessAdminFigure 1 shows the distributionof innovaistration.A databaseconsistingof innovations tionsby states.Californiais the statein which
+by four-digitstandardindustrialclassification
+(SIC) industrieswas formed from the new
+productannouncementsections in over 100
+2As Krugman(1991b p. 57) emphasizes, "States
+technology, engineering and trade journals aren'treallythe right
+geographicalunits,"becauseof the
+that span every industry.'These data were lack of concordancebetweeneconomicmarketsandpo'A detailed description of the U.S. Small Business Administration'sInnovation Citation Data Base can be found
+in chapter two of Acs and Audretsch (1990), as well as
+in Acs and Audretsch (1988).
+
+liticalunits.
+'The SBIDBcontainsa totalof 4,476 innovationsin
+manufacturing
+industries.Of these,thereare276 innovationswhicharenot usedbecausetheyweredevelopedby
+establishments
+outsidethe UnitedStatesor did not have
+completelocationinformation.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+632
+
+THE AMERICANECONOMICREVIEW
+
+JUNE 1996
+
+Counts of Innovationby State
+
+1000
+
+500
+
+100
+
+250
+
+50
+
+Numberof Innovations
+
+FIGURE
+
+1.
+
+25 10 2
+
+Source:U.S. Small Business
+Administration Innovation
+
+Data, 1982
+Citation
+
+-a
+
+|(3)
+
+NUMBER OF INNOVATIONS BY STATE
+
+the greatest number of innovations were registered, followed by New York, New Jersey,
+and Massachusetts. A particularlystriking feature shown in Figure 1 is that the bulk of innovative activity in the United States occurs
+on the coasts, and especially in California and
+in New England. By contrast, no innovative
+activity is registered in certain Midwestern
+states such as North Dakota, South Dakota,
+Montana, and Wyoming.4 States in the traditional manufacturing belt such as Ohio, Illi-
+
+4 Of course, simply comparing the absolute amount of
+innovative activity across states ignores the fact that the
+manufacturingbase of some states is larger than others.
+Presumably one of the most importantdeterminantsof innovative activity is the location of manufacturingactivity.
+Additional information on the geographic distribution of
+the innovation data can be found in Feldman (1994b) and
+Feldman and Florida ( 1994).
+
+nois, Michigan, and Pennsylvania are not at all
+particularlyinnovative. Thus, while the location of manufacturingactivity may explain the
+spatial distribution of innovative activity to
+some degree, it is certainly not the only factor.
+This presentation of the aggregate geographic distribution of innovative activity in
+the United States obscures the propensity for
+innovative activity to cluster spatially within
+specific industries.Thus, the distributionof innovative activity for the seven most innovative
+four-digit standard industrial classification
+(SIC) industries is shown in Table 1. A striking result is that the spatial concentration of
+innovative activity in particular industries is
+considerably greater than for all of manufacturing. For example, in the computer industry,
+342 of the 821 innovations recorded, or 41.7
+percent, are in California. And an additional
+10 percent are recorded in Massachusetts.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+633
+
+AUDRETSCHAND FELDMAN GEOGRAPHYOF PRODUCTION
+
+VOL. 86 NO. 3
+
+INDUSTRIES
+FORMOSTINNOVATIVE
+OFINNOVATIVE
+ACTIVITY
+DISTRIBUTION
+TABLE1-GEOGRAPHIC
+
+SICa
+
+Industryb
+
+3573
+
+Computers
+(n = 821)
+
+3823
+
+Process control instruments
+(n = 464)
+
+3662
+
+Radio and TV communications
+equipment
+(n = 339)
+Semiconductors
+(n = 172)
+
+3674
+3842
+
+Surgical appliances
+(n = 152)
+
+2834
+
+Phannaceuticals
+(n = 127)
+
+3825
+
+Measuring instrumentsfor
+electricity
+(n = 115)
+
+State
+
+Number of
+innovations
+
+State share of industry
+innovations
+
+Industry share of
+state innovations
+
+California
+Massachusetts
+New York
+Texas
+New Jersey
+Illinois
+California
+Massachusetts
+New York
+Pennsylvania
+Illinois
+California
+New York
+Massachusetts
+California
+Massachusetts
+Texas
+New Jersey
+California
+Pennsylvania
+New Jersey
+New York
+Pennsylvania
+Michigan
+California
+Massachusetts
+New York
+
+342
+78
+58
+39
+38
+28
+80
+61
+45
+40
+32
+105
+40
+32
+84
+17
+13
+43
+17
+10
+50
+18
+10
+8
+37
+22
+13
+
+41.7
+9.5
+7.1
+4.8
+4.6
+3.4
+17.2
+13.1
+9.7
+8.6
+6.9
+31.0
+11.8
+9.4
+-48.8
+9.9
+7.6
+28.3
+11.2
+7.9
+39.4
+14.2
+7.9
+6.3
+32.2
+19.1
+11.3
+
+35.1
+21.7
+12.7
+23.1
+8.9
+12.1
+8.2
+16.9
+9.9
+16.5
+13.9
+10.8
+8.8
+8.9
+8.6
+4.7
+7.7
+10.1
+1.7
+4.1
+11.7
+3.9
+4.1
+7.1
+3.8
+16.9
+2.9
+
+a The SIC is the standardindustrialclassification used in the U.S. Small Business Administration'sInnovation Citation
+Data Base.
+'The total number of innovations recorded in the four-digit industry is listed in parentheses.
+
+Thus, these two statesalone accountfor over
+one half of all the innovationsin the computer
+industry.At the same time, the last column
+indicatesthatinnovationsin the computerindustryaccountedfor slightly more than one
+thirdof all the innovationsin Californiaanda
+little morethanone fifthof all innovationsin
+Similarly,nearly40 percentof
+Massachusetts.
+the 127innovationsin thedrugindustry(pharmaceuticals)were recordedin New Jersey,
+while an additional14 percentwere made in
+New York.Thus,overone-halfof pharmaceutical innovationswerein the New Jersey-New
+York area.At the same time, pharmaceutical
+innovationsaccountfor over one tenthof all
+innovationsregisteredin New Jersey.
+To measurethe extent to which manufacturing in specific industriesis concentrated
+geographicallyand the extentto which innovative activity tends to cluster spatially,we
+
+follow Krugman's(1991b) exampleand calculate Gini coefficients for the geographic
+of innovativeactivityandforthe
+concentration
+Table 2 provides
+locationof manufacturing.'
+
+'The locationalGini coefficientsfor productionare
+basedon industryvalue-added.We calculatethe amount
+of value-addedin an industryand state dividedby the
+nationalvalue-addedfor the industry.This ratiois norvaluemalizedby the stateshareof totalmanufacturing
+addedin orderto accountfor the overalldistributionof
+activity.An industrywhich is not geomanufacturing
+graphicallyconcentratedmore than is reflectedby the
+of manufacturing
+value-addedwould
+overalldistribution
+havea coefficientof 0. Theclosertheindustrycoefficient
+the industry
+concentrated
+is to 1, themoregeographically
+wouldbe. Casesin whichstateor industrydatahavebeen
+suppressedareomittedfromthe analysis.The Ginicoefficientsforinnovationarebasedon thecountof innovation
+in a stateandindustryandarecalculatedin a similarway.
+Furtherdetailsareavailablefromtheauthorsuponrequest.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+634
+
+THE AMERICANECONOMICREVIEW
+
+TABLE 2-GEOGRAPHIC CONCENTRATION
+OF PRODUCTION
+AND INNOVATIVEACTiVITYFORMANUFACrURING
+SECTORS(MEAN GINI COEFFICIENTS)a
+Manufacturing
+sector
+Food and
+beverages
+Tobacco
+Textiles
+Apparel
+Lumber
+Furniture
+Paper
+Printing
+Chemicals
+Petroleum
+Rubber and
+plastics
+Leather
+
+a
+
+Value added
+
+Employment
+
+Innovations
+
+0.6973
+(0.1685)
+0.6589
+(0.2559)
+0.7040
+(0.1149)
+0.6179
+(0.1589)
+0.6309
+(0.1007)
+0.5815
+(0.1373)
+0.6036
+(0.1525)
+0.5977
+(0.1491)
+0.7003
+(0.1612)
+0.6786
+(0.1512)
+0.5771
+(0.3089)
+0.7186
+(0.1150)
+
+0.5584
+(0.1828)
+0.4137
+(0.1444)
+0.5670
+(0.1430)
+0.5160
+(0.1687)
+0.5605
+(0.1208)
+0.4632
+(0.1366)
+0.5580
+(0.1568)
+0.5325
+(0.1485)
+0.5987
+(0.1790)
+0.4766
+(0.1493)
+0.4569
+(0.2434)
+0.5552
+(0.1300)
+
+0.2567
+(0.2226)
+0.3319
+(0.2043)
+0.1659
+(0.2347)
+0.0583
+(0.1469)
+0.1180
+(0.1235)
+0.4204
+(0.2347)
+0.2363
+(0.3253)
+0.1762
+(0.2220)
+0.3881
+(0.1945)
+0.2598
+(0.3674)
+0.3932
+(0.1952)
+0.0646
+(0.1 1 19)
+
+Standarddeviations are given in parentheses.
+
+the weightedmeanGinicoefficientsforvalueadded, employment,and innovativeactivity
+withineach broadtwo-digitSIC manufacturing sector.Those sectorsexhibitingthe greatest geographicconcentration
+of manufacturing
+activityincludeprimarymetals,transportation
+equipment, textiles, food and beverages,
+leatherandchemicals.By contrast,thosemanufacturingsectorsexhibitingthe highestpropensity for innovative activity to cluster
+spatiallyincludetransportation
+equipment,instruments,andelectronics.Thatthepropensity
+for innovativeactivityto spatiallyclustercannot be simply explainedby the geographic
+concentration
+of thelocationof manufacturing
+activityis evidentfromTable2. Thispointsto
+the importanceof controllingfor the geographic concentrationof productionin explainingthe propensityfor innovativeactivity
+to spatiallycluster.
+II. TheModel
+Whyshould innovations tend to cluster spatially more in some 'industries than in other
+
+JUNE 1996
+
+industries?Oneobviousansweris simplythat
+the locationof productionis moregeographically concentratedin some industriesthanin
+others.Thisraisesthe issue of endogeny.Jaffe
+et al. (1993) identify two relatedcriticalissues which must be consideredin trying to
+identifywhy thepropensityfor innovativeactivity to clusterspatiallyvaries acrossindustries. First, the extent to which the location
+of productionis geographicallyconcentrated
+must be controlledfor, so that the relevant
+question becomes: even after accounting for
+the geographic concentration of the production location, why does the propensity for
+innovative activity to cluster vary across in-
+
+dustries?And second,in tryingto accountfor
+the degreeto whichthe locationof production
+is geographicallyconcentrated,an important
+factoris the role which knowledgespillovers
+play in the industry.It is only afterthe geographicconcentrationof productionhas been
+controlledfor, that the degree to which innovativeactivityclustersspatiallycan be addressed.Thus, to explain the propensityfor
+innovativeactivityto clusterspatiallywe begin with the extent to which productionis
+geographicallyconcentrated.
+While it is not possibleto directlymeasure
+the extent to which knowledgeexternalities
+exist, as Kenneth J. Arrow (1962) and
+Krugman(1991a) point out, it is possible to
+identify industriesin which new economic
+knowledgeplays a relativelymore important
+role. This is done on the basis of the industry
+R&D intensity,or R&D-salesratio.The crucial assumptionwe make here is Arrow's
+(1962) argumentthat knowledge spillovers
+aremoreimportantin, andreflectedat leastto
+some degreeby, highlyR&D-intensiveindustries. By contrast,such knowledgeexternalities, while perhapsstill present,play a less
+importantrole wherethe creationof new economicknowledge,as reflectedby R&Dintensity, is negligible. Thus, the location of
+productionwouldbe expectedto be moreconcentratedin thoseindustrieswhereknowledge
+spilloversare prevalent,that is in industries
+whichareR&D intensive.
+Similarly,skilled workersendowedwith a
+high level of humancapitalare a mechanism
+by whicheconomicknowledgeis transmitted.
+The greaterthe extent to which the industry
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+VOL. 86 NO. 3
+
+635
+
+AUDRETSCHAND FELDMAN: GEOGRAPHYOF PRODUCTION
+TABLE 3-DESCRIPTION OF VARIABLES
+
+Variable
+Gini of production
+
+Gini of innovation
+Natural resources
+Scale
+
+Transportationcosts
+IndustryR&D/sales
+Skilled labor
+
+University research
+
+Description and source
+Gini coefficient of four-digit SIC industry value-added across states,
+weighted by national value-added for the industry in 1982 (U.S.
+Department of Commerce, Bureau of the Census, 1982 Economic
+Census).
+Gini coefficient of four-digit SIC industry count of innovations
+across states, weighted by national innovation count for the
+industry in 1982 (Edwards and Gordon, 1984).
+Share of total industry inputs purchased from mining and
+agriculturein 1976 (Input-outputdata as provided by U.S.
+InternationalTrade Commission databank).
+Mean size of the largest establishments accounting for one half of
+the industry value-of-shipments divided by industry value of
+shipments in 1982 (U.S. Departmentof Commerce, Bureau of
+the Census, 1982).
+Radius of the mean distance shipped in 1967 (Commodity
+TransportSurvey of the United States Census of Transportation
+for 1967, taken from Weiss [1991]).
+Industryexpenditures on research and development divided by sales
+in 1977 (Line of Business Survey, U.S. Federal Trade
+Commission, 1977).
+Share of industry employment accounted for by professional and
+kindred workers, managers and administrators,plus craftspeople
+and kindred workers in 1970 (U.S. Departmentof Commerce,
+Bureau of the Census, 1972).
+Expenditureson university research for departmentsrelevant to
+industry (Yale Survey of IndustrialManagers in Levin et al.
+[1987] and National Science Foundation's (NSF) Survey of
+Science Resources Survey)
+
+workforceis composedof skilledworkers,the
+more importantknowledge spillovers are
+likely to be. Thus,industrieswhich rely on a
+highercomponentof skilled workersshould
+tendto exhibita greatertendencytowardsspatial concentrationof industriallocation.
+Of course, while knowledge externalities
+may be importantin influencingthe degreeto
+which the location of productionis spatially
+concentrated,they are certainlynot the only
+factors.Krugman(199 la) pointsout thatthe
+extentto which the locationof productionis
+will be shapedby
+concentrated
+geographically
+costs are
+transportation
+costs. Transportation
+inverselyrelatedto themeandistanceshipped,
+costs
+so that a highervalue of transportation
+shouldbe associatedwith a lower geographic
+concentration
+of production.Similarly,industrieswhicharehighlydependentuponnatural
+resourceinputs are also going to tend to be
+geographically concentrated-presumably
+close to the sourceof those inputs.Augustus
+
+Mean
+
+Standard
+deviation
+
+0.56
+
+0.13
+
+0.30
+
+0.23
+
+0.09
+
+0.16
+
+2.13
+
+3.97
+
+7.9549
+
+4.0574
+
+1.66
+
+1.69
+
+0.35
+
+0.09
+
+17.5946
+
+13.851
+
+Loesch (1954) and Victor R. Fuchs (1962)
+argue that firms in industries with a high dependency on naturalresource inputs will tend
+to locate in close proximity to those resources.
+Therefore, a higher content of naturalresource
+inputs in an industry should result in a greater
+geographic concentration of the location of
+production. In addition, Robert C. Shelburne
+and Robert W. Bednarzik (1993) argue that
+industries which are more capital-intensive
+will tend to be geographically concentrated,
+since production will be concentrated among
+fewer enterprises. That is, as capital intensity
+and the importance of scale economies rise,
+fewer large establishments will be able to exist
+at a level of output in excess of the minimum
+efficient scale (MES) level of output.
+The main hypothesis of this paper suggests
+that innovative activity will tend to cluster in
+industries where new economic knowledge
+plays an especially important role. In estimating the main influences on the geographic
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+636
+
+THE AMERICANECONOMICREVIEW
+TABLE 4-CORRELATION
+
+Gini of
+production
+Gini of
+production
+Gini of
+innovation
+Natural
+resources
+Scale
+Transportation
+costs
+Industry
+R&D/sales
+Skilled labor
+University
+research
+
+1.0
+0.0090
+0.1292
+-0.2370
+
+Gini of
+innovation
+
+Natural
+resources
+
+Scale
+
+JUNE 1996
+
+MATRIX
+
+Transportation
+costs
+
+Industry
+R&D/sales
+
+Skilled
+labor
+
+University
+research
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-0.1130
+-0.1158
+
+1.0
+0.1009
+
+-
+
+1.0
+
+-
+
+0.2076
+
+0.1013
+
+-0.1400
+
+0.3010
+
+1.0
+
+0.3241
+0.0563
+
+0.2254
+0.2540
+
+-0.2148
+-0.2848
+
+0.2420
+0.0997
+
+0.3225
+0.0702
+
+1.0
+0.3961
+
+1.0
+
+-
+
+0.8730
+
+0.5100
+
+0.0819
+
+0.1946
+
+0.0239
+
+1.0
+
+0.1199
+
+concentrationof innovationwe considerthree
+sources of economic knowledge-industry
+R&D,skilledlabor,andthe size of the pool of
+basic science for a specificindustry.Conceptually,thereare greatdifferencesin the scope
+andcommercialapplicabilityof universityresearch undertakenin different fields. Academic researchwill not necessarilyresult in
+usefulknowledgeforeveryindustry;however,
+scientific knowledge from certain academic
+departments
+is expectedto be moreimportant
+for certainindustriesthanfor others.To capturethe relevantpool of knowledge,academic
+departmentsare assignedto industriesusing
+the survey of industrialR&D managersby
+RichardC. Levinet al. ( 1987).6 Forexample,
+basic scientificresearchin medicine,biology,
+chemistryand chemicalengineeringis found
+to be relevantfor productinnovationin drugs
+(SIC 2834).
+II. The Results
+
+Descriptivestatisticsfor the variablesused
+to estimatethe modelareprovidedin Table3,
+
+6 To measure the relevance of a discipline to an industry
+a survey of industrialR&D managerswas used. The question was asked, "How relevant were the basic sciences to
+technical progress in this line of business over the past
+10- 15 years?" The survey uses a Likert scale of 1 to 7 to
+assess relevance. We consider relevant science to be those
+academic departments that are rated with a relevance
+greater than a value of 5 on the scale.
+
+-0.1077
+
+-
+
+and Table 4 providesthe correlationmatrix.
+There are 163 four-digitSIC industriesfor
+which comparabledatafor the differentmeasurescouldbe compiled.
+Table5 presentstheregressionresultsusing
+ordinary-least-squares
+(OLS) estimates.Table
+6 presentsthe resultsestimatingthe systemof
+equations using three-stage least squares
+(3SLS).7
+
+The statistical results are generally
+
+quite consistentbetweenthe OLS and 3SLS
+methodsof estimation.
+In equation(1) of Table5, the positiveand
+statisticallysignificantcoefficientof the measure of naturalresourceutilizationsuggests
+thatthe degreeto whichinputsin an industry
+are composed of naturalresources clearly
+tendsto shapethe geographicconcentration
+of
+production. Resource dependent industries
+tend to be more geographicallyconcentrated.
+The negative and statisticallysignificantcoefficienton the scale measuresuggeststhatindustries tend to be less, and not more,
+geographicallyconcentratedwhenscale economies play a moreimportantrole. This result
+emergeseven aftercontrollingfor the size of
+the industry.One explanationfor this result
+
+7The system of equationswas also estimatedusing
+two-stageleast-squares
+estimation.Thedifferencesin the
+standarderrorsindicatethe presenceof cross-equation
+correlation.
+Thus,we estimatethe modelwith3SLS.The
+instrumentsused includeall of the exogenousvariables
+appearingon the right-handside of the equationsin the
+model.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+637
+
+AUDRETSCHAND FELDMAN: GEOGRAPHYOF PRODUCTION
+
+VOL 86 NO. 3
+TABLE
+
+5-OLS
+
+REGRESSION RESULTS ESTIMATING GINI COEFFICIENTS ACROSS STATESa
+
+Gini of innovation
+
+Gini of production
+(1)
+Gini of innovation
+Natural resources
+Scale
+Transportationcosts
+Industry R&D/sales
+Skilled labor
+
+0.326
+(4.950)
+-0.137
+(-4.162)
+1.223
+(4.439)
+0.455
+(7.791)
+1.094
+(15.044)
+
+(2)
+0.768
+(0.143)
+0.330
+(5.261)
+-0.160
+(-4.173)
+1.419
+(4.838)
+0.436
+(7.170)
+1.058
+(12.483)
+
+University research
+
+(3)b
+
+-0.125
+(-1.741)
+0.384
+(5.058)
+-0.244
+(-0.695)
+1.741
+(5.631)
+0.608
+(2.860)
+1.318
+(15.031)
+0.034
+(2.147)
+
+(4)
+
+0.469
+(2.137)
+0.466
+(4.910)
+0.108
+(7.920)
+
+Gini of production
+
+(5)
+
+0.565
+(2.405)
+0.657
+(4.581)
+0.116
+(8.093)
+-0.119
+(-1.587)
+
+(6)b
+
+-0.108
+(-1.228)
+-0.007
+(1.986)
+0.006
+(1.674)
+0.543
+(2.341)
+0.645
+(4.686)
+0.118
+(8.139)
+-0.146
+(-1.741)
+
+163
+
+163
+
+163
+
+163
+
+163
+
+163
+
+R2
+
+0.951
+
+0.952
+
+0.970
+
+0.827
+
+0.908
+
+0.921
+
+Standarderror
+
+0.15034
+
+0.15079
+
+0.18601
+
+0.21443
+
+0.21469
+
+0.18487
+
+Sample size
+
+a
+
+are given in parentheses.
+Columns (3) and (6) provide the unrestricted regression results. When the regression estimated for the Gini of
+production in column (2) is compared with the estimate of the unrestrictedregression in column (3), the F test statistic
+(2,156) of 0.087 is computed for the overidentifying restrictions. Similarly, when the regression estimated for the Gini
+of innovation in column (5) is compared to the estimate of the unrestrictedregression in column (6), the F test statistic
+(3,156) equals 2.662 for the overidentifying restrictions.
+tvalues
+
+b
+
+may be that this measure limits the size of the
+market to the United States, but when many
+manufacturing industries are global in scale,
+this measure will be understated.
+There is little ambiguity concerning the two
+measures that are the primaryfocus of this paper-the relative importanceof industryR&D
+in an industryand the extent to which the labor
+force is composed of skilled workers. The coefficient of industry R&D is positive and
+clearly statistically significant, supporting the
+hypothesis that industries where new economic knowledge tends to play a more important role will have a higher propensity to
+cluster together. Similarly, industries where
+skilled labor is relatively important also tend
+to exhibit a greater degree of geographic concentration of production.
+An alternative specification which includes
+the Gini coefficient of innovation is presented
+in equation (2) of Table 5. To the extent that
+geographic proximity between R&D labs and
+
+production facilities is important to gain the
+benefits of R&D, we might expect that industries with closely clustered innovations may
+also have closely clustered factories. However,
+the coefficient of this variable cannot be considered to be statistically different from 0.
+Equations (4) and (5) of Table 5 present
+the OLS regression results estimating the Gini
+coefficients of innovative activity across
+states. Equation (4) indicates that, when the
+extent to which productionactivity is geographically concentrated is not controlled for, the
+coefficients of all three types of knowledgegeneratingmeasuresincluded-industry R&D,
+skilled labor,and universityresearch-are positive and statistically significant. However, industries in which new economic knowledge
+plays a more importantrole also tend to exhibit
+a greater degree of spatial concentration.That
+is, without first controlling for the extent to
+which the location of productionis geographically concentrated,it is not at all clear whether
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+JUNE 1996
+
+THE AMERICANECONOMICREVIEW
+
+638
+TABLE 6-3SLS
+
+ACROSS STATESa
+REGRESSIONRESULTSESTIMATINGGINI COEFFICIENTS
+
+Gini of production
+
+Gini of innovation
+
+Gini of production
+
+Gini of innovation
+
+0.224
+
+Gini of innovation
+
+(0.416)
+Natural resources
+
+Scale
+Transportation costs
+
+Industry R&D/sales
+Skilled labor
+
+0.331
+
+0.347
+
+(5.145)
+-0.160
+(-4.333)
+
+(5.261)
+-0.166
+(-3.589)
+
+1.432
+
+1.506
+
+(5.052)
+0.440
+(7.290)
+1.075
+(14.846)
+
+(3.974)
+0.460
+(6.723)
+1.193
+(5.599)
+
+0.572
+(2.421)
+0.687
+(3.707)
+
+0.557
+(2.341)
+0.683
+(3.736)
+
+University research
+
+0.119
+
+0.140
+
+Gini of production
+
+(7.887)
+-0.135
+(-1.247)
+
+(3.480)
+-0.158
+(-1.391)
+
+Sample size
+Standarderror
+
+163
+0.15523
+
+163
+0.21733
+
+163
+0.15571
+
+163
+0.21767
+
+a t values are given in parentheses.
+
+the greaterpropensityfor innovative activity to
+cluster in industries where knowledge spillovers are more prevalent is attributableto the
+fact that knowledge externalitiesare more conducive to innovative activity or simply that the
+firms are already located within a relatively
+tight geographic area.
+Thus, in equation (5) of Table 5, the Gini
+measure of the value-added across states is included. The coefficient of this variable is statistically insignificant, but the coefficients of
+the other explanatory variables remain virtually unchanged. Which is to say that, even after controlling for the extent to which the
+location of production is geographically concentrated, the three knowledge-generating
+variables are still found to have a significant
+impact on the propensity for innovative activity to cluster spatially.
+Table 6 presents the 3SLS method of estimation. In the first set of equations the Gini
+coefficient of innovative activity across states
+is endogenous in both equations. In the second
+set of equations a fully specified simultaneous
+version of the model is presented in which the
+Gini coefficients of both innovative activity
+and production are endogenously included.
+Most importantly, the propensity for innovative activity to spatially cluster is found to be
+
+the result of new economic knowledge and not
+merely the existing geographic concentration
+of production.
+The positive coefficients of industry R&D,
+skilled labor, and university research, even after controlling for the degree of concentration
+of production, using both the OLS and 3SLS
+methods of estimation, are certainly consistent
+with the following hypothesis. The propensity
+for innovative activity to cluster will tend to
+be higher in industries where new economic
+knowledge plays a more important role. Presumably, it is in such industries where new
+economic knowledge which generates innovative activity is transmitted tacitly through
+what has been described as knowledge spillovers. Therefore, innovative activity is more
+likely to occur within close geographic proximity to the source of that knowledge, be it a
+university research laboratory, the research
+and development departmentof a corporation,
+or exposure to the knowledge embodied in a
+skilled worker.
+Industries where new economic knowledge
+plays a more importantrole also tend to exhibit
+a greater geographic concentration of production. However, based on the statistical results
+reported above it appears that the propensity
+for innovative activity to cluster spatially is
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+VOL. 86 NO. 3
+
+AUDRETSCHAND FELDMAN: GEOGRAPHYOF PRODUCTION
+
+more attributable to the influence of knowledge spillovers and not merely the geographic
+concentration of production.
+IV. Conclusions
+This paper examines the geography of innovation and production. In particular, by
+examining the concentrationof economic phenomena, we re-focus the lens from the usual
+product dimension to a geographic or spatial
+dimension. A key assumption we make in examining the link between knowledge spillovers in an industry and innovative activity
+clustering spatially is that knowledge externalities are more prevalent in industries where
+new economic knowledge plays a greaterrole.
+New economic knowledge is captured by industry R&D, university R&D, and skilled
+labor.
+One obvious complication in testing for this
+link is that innovative activity will be more
+geographically concentrated in industries
+where production is also geographically concentrated,simply because the bulk of firms are
+located within close proximity. Even more
+problematic, though, is the hypothesis that
+new economic knowledge will tend to shape
+the spatial distribution of production as well
+as that of innovation. Indeed, we find that a
+key determinantof the extent to which the location of productionis geographically concentrated is the relative importance of new
+economic knowledge in the industry. Even after controlling for the concentration of production we find evidence that industries in
+which knowledge spillovers are more prevalent-that is where industry R&D, university
+research and skilled labor are the most important-have a greaterpropensity for innovative
+activity to cluster than industrieswhere knowledge externalities are less important.
+REFERENCES
+Acs, Zoltan J. and Audretsch,David B. "Innovation in Large and Small Firms: An Empirical Analysis." American Economic
+Review, September 1988, 78(4), pp. 67890.
+. Innovation and small firms. Cambridge, MA: MIT Press, 1990.
+
+639
+
+Acs, ZoltanJ.; Audretsch,DavidB. and Feldman,
+MaryannP. "Real Effects of Academic Research: Comment." American Economic
+Review, March 1992, 82(1), pp. 363-67.
+.__
+
+"R&D Spillovers and Recipient Firm
+
+Size." Review of Economics and Statistics,
+May 1994, 76(2), pp. 336-40.
+Arrow,KennethJ. "Economic Welfare and the
+Allocation of Resources for Invention," in
+Richard R. Nelson, ed., The rate and direction of inventive activity. Princeton, NJ:
+Princeton University Press, 1962, pp. 60926.
+Edwards, Keith L. and Gordon, Theodore J.
+"Characterization of Innovations Introduced on the U.S. Market in 1982." The
+Futures Group, preparedfor the U.S. Small
+Business Administration under Contract
+No. SBA-6050-OA-82, March 1984.
+Feldman, Maryann P. "Knowledge Complementarity and Innovation." Small Business
+Economics, October 1994a, 6(5), pp. 36372.
+. The geography of innovation. Boston:
+
+Kluwer Academic Publishers, 1994b.
+Feldman, Maryann P. and Florida, Richard.
+"The Geographic Sources of Innovation:
+Technological Infrastructure and Product
+Innovation in the United States." Annals of
+the Association of American Geographers,
+May 1994, 84(2), pp. 210-29.
+Fuchs, Victor R. Change in the location of
+manufacturing in the United States since
+1929. New Haven: Yale University Press,
+1962.
+Grossman,Gene and Helpman,Elhanan. Innovation and growth in the global economy.
+Cambridge, MA: MIT Press, 1991.
+Jaffe,AdamB. "Real Effects of Academic Research." American Economic Review, December 1989, 79(5), pp. 957-70.
+Jaffe, Adam B.; Trajtenberg, Manuel and
+Henderson, Rebecca. "Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations." Quarterly
+Journal of Economics, August 1993,
+63(3), pp. 577-98.
+Krugman,Paul. "Increasing Returns and Economic Geography." Journal of Political
+Economy, June 1991a, 99(3), pp. 483-99.
+. Geography and trade. Cambridge,
+MA: MIT Press, 1991b.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+640
+
+THE AMERICANECONOMIC REVIEW
+
+Levin, Richard C.; Klevorick, Alvin K.; Nelson,
+Richard R. and Winter, Sidney G. "Appropri-
+
+ating the Returns from Industrial Research
+and Development." Brookings Papers on
+Economic Activity, 1987 (3), pp. 783 -820.
+Loesch, Augustus.The economics of location.
+New Haven: Yale University Press, 1954.
+Marshall,Alfred. Principles of economics, 8th
+ed. London: Macmillan, 1920.
+Romer, Paul. "Increasing Returns and LongRun Growth." Journal of Political Economy, November 1986, 94(5), pp. 1002-37.
+
+JUNE 1996
+
+Scherer,F. M. and Ross, David. Industrial market structure and economic performance,
+3rd ed. Boston: Houghton Mifflin, 1990.
+Shelburne, Robert C. and Bednarzik, Robert
+
+W. "Geographic Concentration of TradeSensitive Employment." Monthly Labor
+Review, June 1993, 116(6), pp. 3-13.
+Weiss, Leonard W. "The Geographic Size of
+Markets in Manufacturing," in David B.
+Audretschand Hideki Yamawaki,eds., Structure, conduct, and performance.New York:
+New York UniversityPress, 1991, pp. 64-91.
+
+This content downloaded from 152.23.75.172 on Wed, 30 Jul 2014 10:25:38 AM
+All use subject to JSTOR Terms and Conditions
+
+

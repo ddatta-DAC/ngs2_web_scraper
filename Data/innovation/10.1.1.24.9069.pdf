@@ -1,0 +1,579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.globus.org/sites/default/files/favicon1214_0.ico" type="image/vnd.microsoft.icon" />
+<meta about="/venues/new-orleans-ernest-n-morial-convention-center" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="New Orleans Ernest N. Morial Convention Center" />
+<link rel="canonical" href="/research-data-management-simplified" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/79" />
+  <title>Research data management simplified. | globus</title>
+  <link type="text/css" rel="stylesheet" href="https://www.globus.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.globus.org/sites/default/files/css/css_rLIdHlWlFQHLez7So8O0xR-vVqB5kyVK36h9J7lQ4a4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.globus.org/sites/default/files/css/css_KsU7YYRWA2KJ7szr1L6z2bnB3XX-iFrgMEUzWIbC-1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.globus.org/sites/default/files/css/css_6pwhjdRvibtusFFHOVsGD7baedrbtO9BBbrWEmg-H1Q.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.globus.org/sites/default/files/js/js_V1ZuwJK9uzfm6fFffOcHHubfxnimoxnbgG58pvTQdpY.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="https://www.globus.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="https://www.globus.org/sites/default/files/js/js_S4ggeDo4Mq8dTNgIbjVciKi0294xfhJynmuVhO9nf2U.js"></script>
+<script src="https://www.globus.org/sites/default/files/js/js_9MekJsgEEToXHSH0_5cKhvrPS6r_LhPbP1rEPgah6kQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"globus_bootstrap","theme_token":"Y8g8t4toHk-4Ql0aRBGMcpdjWqlKJvXowhLCjkrgv_M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/themes\/globus_bootstrap_theme\/js\/ga.js":1,"sites\/all\/themes\/globus_bootstrap_theme\/js\/flipcounter.js":1,"sites\/all\/themes\/globus_bootstrap_theme\/js\/globusops.js":1,"sites\/all\/themes\/globus_bootstrap_theme\/js\/globus.js":1,"sites\/all\/themes\/globus_bootstrap_theme\/js\/search.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/eventbrite\/eventbrite.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/css\/flipcounter.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.1.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/css\/font-awesome.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/css\/style.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/css\/search.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/slick\/slick.css":1,"sites\/all\/themes\/globus_bootstrap_theme\/slick\/slick-theme.css":1}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      <script type="text/javascript" language="javascript">
+      jQuery(document).ready(function(){
+        jQuery('.carousel').slick({
+          slidesToShow: 5,
+          dots: false,
+          arrows: false,
+          infinite: true,
+          autoplay: true,
+          autoplaySpeed: 2500,
+          slidesToScroll: 1,
+          centerPadding: '50px',
+          responsive: [
+            {
+              breakpoint: 1200,
+              settings: {
+                slidesToShow: 4,
+                centerMode: false,
+              }
+            },
+            {
+              breakpoint: 992,
+              settings: {
+                slidesToShow: 3,
+                centerMode: true,
+              }
+            },
+            {
+              breakpoint: 700,
+              settings: {
+                slidesToShow: 3,
+                centerMode: false,
+                //centerPadding: '20px',
+              }
+            },
+            {
+              breakpoint: 600,
+              settings: {
+                slidesToShow: 2,
+                centerMode: true,
+                //centerPadding: '20px',
+              }
+            },
+            {
+              breakpoint: 512,
+              settings: {
+                slidesToShow: 2,
+                centerMode: false,
+              }
+            },
+            {
+              breakpoint: 405,
+              settings: {
+                slidesToShow: 1,
+                centerMode: true,
+                centerPadding: '50px',
+              }
+            }
+          ]
+        });
+      });
+    </script>
+    <!-- Hotjar Tracking Code for www.globus.org -->
+  <script>
+    if (location.host === 'www.globus.org' || location.host === 'globus.org' || location.host === 'www.globusonline.eu' || location.host === 'globusonline.eu' ) {
+      (function(f,b){
+        var c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:45828, hjsv:4};
+        c=b.createElement("script");c.async=1;
+        c.src="//static.hotjar.com/c/hotjar-"+f._hjSettings.hjid+".js?sv="+f._hjSettings.hjsv;
+        b.getElementsByTagName("head")[0].appendChild(c); 
+      })(window,document);
+    }
+  </script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-79 node-type-advanced-page"  >
+    <div id="wrap" class="">
+  <header id="masthead" role="banner" class="clearfix">
+    <div id="navbar" class="navbar clearfix affix-top">
+      <div class="container">
+        <div class="navbar-header">
+                    <a class="logo navbar-btn pull-left" href="/" title="Home">
+            <img src="https://www.globus.org/sites/all/themes/globus_bootstrap_theme/logo.png" alt="Home" />
+          </a>
+          
+                    <a class="name navbar-brand" href="/" title="Home">globus</a>
+          
+          <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+                  </div>
+
+                <div class="navbar-collapse collapse">
+          <nav role="navigation">
+                            <div class="region region-navigation">
+    <section id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+      
+  <ul class="nav navbar-nav navbar-right"><li class="first expanded dropdown"><a href="/research-data-management-simplified/%23" data-target="#" class="dropdown-toggle" data-toggle="dropdown">I Want To... <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/data-transfer">Transfer files</a></li>
+<li class="leaf"><a href="/data-sharing">Share data with others</a></li>
+<li class="leaf"><a href="/data-publication">Publish data</a></li>
+<li class="leaf"><a href="/globus-connect">Enable Globus on my system</a></li>
+<li class="last leaf"><a href="/platform">Integrate my app or gateway</a></li>
+</ul></li>
+<li class="leaf"><a href="/subscriptions">Pricing</a></li>
+<li class="expanded dropdown"><a href="/research-data-management-simplified/%23" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/user-stories">User Stories</a></li>
+<li class="leaf"><a href="https://docs.globus.org/how-to/">How To</a></li>
+<li class="leaf"><a href="https://docs.globus.org/faq" class="zendeskLink">FAQs</a></li>
+<li class="last leaf"><a href="https://docs.globus.org">Documentation</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/research-data-management-simplified/%23" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Support <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/mailing-lists">Mailing Lists</a></li>
+<li class="last leaf"><a href="https://support.globus.org/requests" class="zendeskLink">Check Support Tickets</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/research-data-management-simplified/%23" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/what-we-do">What We Do</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="leaf"><a href="/news">News</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="last leaf"><a href="/our-story">Our Story</a></li>
+</ul></li>
+<li class="last leaf"><a href="/app/transfer" class="go-nav-item">Log In</a></li>
+</ul>
+</section>
+  </div>
+                      </nav>
+        </div>
+        
+      </div>
+    </div>
+    <!--  anouncement image-left
+          comment out when announcement inactive -->
+    <div id="announcement-block" class="img-left container">
+      <img class="img-responsive mb-5 mb-md-0 mr-md-5"
+        src="/sites/all/themes/globus_bootstrap_theme/home_images/HGST-logo.png" alt="HGST Logo"/>
+      <div>
+        <p class="tagline">ANNOUNCING</p>
+        <h1>Globus for ActiveScale</h1>
+        <p class="tagline">Our new connector for affordable object storage</p>
+        <div class="d-md-flex">
+          <p class="more-link"><a href="https://www.globus.org/connectors/activescale">Get Details</a></p>
+          <p class="more-link ml-md-5"><a href="https://www.globus.org/press-releases/globus-announces-activescale-support">Read the Press Release</a></p>
+        </div>
+      </div>
+    </div>
+    <!--  anouncement image-right
+          comment out when announcement inactive
+    <div id="announcement-block" class="img-right container"><div class="row">
+      <div class="col-xs-12 col-sm-6 col-sm-push-6">
+        <img class="img-responsive"
+          src="/sites/all/themes/globus_bootstrap_theme/home_images/sc17@1x.png"
+          srcset="/sites/all/themes/globus_bootstrap_theme/home_images/sc17@1x.png 468w, /sites/all/themes/globus_bootstrap_theme/home_images/sc17@2x.png 936w"
+          alt="SC17 graphic"/>
+      </div>
+      <div class="text-md-right col-xs-12 col-sm-6 col-sm-pull-6">
+        <p class="tagline">November 13-17, Denver, CO</p>
+        <h1>Visit Globus at</h1>
+        <p class="tagline">Booth # 373</p>
+        <p class="more-link"><a href="https://www.globus.org/events/sc17">Learn more</a></p>
+      </div>
+    </div></div> -->
+
+    <div id="tagline-block"><div class="container">
+      <div class="row">
+        <h1 id="tagline" class="col-xs-12">Research data management simplified.</h1>
+        <div id="tag-container">
+          <a class="tag" href="#transfer"><img src="/sites/all/themes/globus_bootstrap_theme/home_images/i_transfer_tag.svg"/>TRANSFER</a>
+          <a class="tag" href="#sharing"><img src="/sites/all/themes/globus_bootstrap_theme/home_images/i_share_tag.svg"/>SHARE</a>
+          <a class="tag" href="#publish"><img src="/sites/all/themes/globus_bootstrap_theme/home_images/i_publish_tag.svg"/>PUBLISH</a>
+          <a class="tag" href="#build"><img src="/sites/all/themes/globus_bootstrap_theme/home_images/i_build_tag.svg"/>BUILD</a>
+        </div>
+      </div>
+    </div></div>
+  </header>
+
+
+  <div class="main-container">
+
+    <section class="banner" id="intro"><div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 mbottom-10">
+          <img src="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-unified@1x.png"
+              srcset="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-unified@1x.png 1x,
+                /sites/all/themes/globus_bootstrap_theme/home_images/graphic-unified@2x.png 2x" width="400" height="225" class="img-responsive center-block sm-right"/>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-5">
+        <h3>Get unified access to your research data, across all systems, using any existing identity.</h3>
+          <p>Laptop? HPC cluster? Cloud storage? Tape archive? Access them all using just a web browser.</p>
+          <p>Data stored at a different institution? At a supercomputing facility? All you need is your campus login.</p>
+        </div>
+      </div>
+    </div></section>
+
+    <section class="banner" id="transfer"><div class="container">
+      <div class="row">
+        <h1>Transfer your data.</h1>
+        <div class="col-xs-12">
+            <img src="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-transfer@1x.png"
+              srcset="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-transfer@1x.png 1x,
+                /sites/all/themes/globus_bootstrap_theme/home_images/graphic-transfer@2x.png 2x"
+                width="400" height="198" class="img-responsive center-block mbottom-20"/>
+          </div>
+        <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 md-right mbottom-10">
+          <p>Gigabytes, terabytes, petabytes&mdash;research data is large and distributed. Globus lets you efficiently, securely, and reliably transfer data directly between systems separated by an office wall or an ocean. Focus on your research and offload your data transfer headaches to Globus.</p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-5">
+          <p class="more-link"><a href="/data-transfer">Learn more</a></p>
+          <p class="more-link"><a href="https://docs.globus.org/how-to/get-started">Transfer data now</a></p>
+          <p class="more-link"><a href="/globus-connect">Connect your system to globus</a></p>
+        </div>
+        <div class="col-xs-12 text-center"><ul id="flip-counter" class="flip_counter flip-counter"></ul></div>
+      </div>
+    </div></section>
+        
+    <section class="banner" id="sharing"><div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Share your data.</h1>
+          <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 md-right">
+            <p>Globus lets you share data on your storage systems with collaborators at other institutions. You specify what data. You specify which colleagues. Globus manages access simply and securely, so you can focus on your research.</p>
+            <p class="more-link md-right"><a href="/data-sharing">Learn more</a></p>
+            <p class="more-link md-right"><a href="https://docs.globus.org/how-to/share-files/">Share data now</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-5">
+            <img src="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-share@1x.png"
+              srcset="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-share@1x.png 1x,
+                /sites/all/themes/globus_bootstrap_theme/home_images/graphic-share@2x.png 2x" width="400" height="200" class="img-responsive center-block sm-left"/>
+          </div>
+        </div>
+      </div>
+    </div></section>
+
+    <section class="banner" id="publish"><div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Publish your data.</h1>
+          <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+            <img src="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-publish@1x.png"
+              srcset="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-publish@1x.png 1x,
+                /sites/all/themes/globus_bootstrap_theme/home_images/graphic-publish@2x.png 2x" width="400" height="325" class="img-responsive center-block sm-right"/>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-5">
+            <p>Globus data publication lets you identify, describe, and preserve research data. Easily turn your data into a curated collection; discoverable and accessible by others, under your full control and on your own storage. Focus on your research and offload your data publication headaches to Globus.</p>
+            <p class="more-link"><a href="/data-publication">Learn more</a></p>
+            <p class="more-link"><a href="https://trial.publish.globus.org">Try it now</a></p>
+          </div>
+        </div>
+      </div>
+    </div></section>
+
+    <section class="banner" id="build"><div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Build with the Globus platform.</h1>
+          <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 md-right">
+            <p>Custom portals? Science Gateways? Unique workflows? Our open REST APIs and Python SDK empower you to create an integrated ecosystem of research data services and applications. Harness the power of the Globus platform so you can focus on building your application.</p>
+            <p class="more-link md-right"><a href="/platform">Learn more</a></p>
+            <p class="more-link md-right"><a href="https://docs.globus.org">The docs</a></p>
+            <p class="more-link md-right"><a href="https://github.com/globus">Code and examples to get you started</a></p>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <img src="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-build@1x.png"
+              srcset="/sites/all/themes/globus_bootstrap_theme/home_images/graphic-build@1x.png 1x,
+                /sites/all/themes/globus_bootstrap_theme/home_images/graphic-build@2x.png 2x" width="400" height="371" class="img-responsive center-block sm-left"/>
+          </div>
+        </div>
+      </div>
+    </div></section>
+
+  <!--Pre-Footer Columns-->
+      <section class="banner" id="events-news"><div class="container">
+      <div class="row">
+                    <div id="pre-footer-first" class="col-xs-12 col-sm-6">
+              <div class="region region-prefooter-first">
+    <section id="block-views-events-upcoming-events" class="block block-views clearfix">
+
+        <h2 class="block-title">Upcoming Events</h2>
+    
+  <div class="view view-events view-id-events view-display-id-upcoming_events view-dom-id-7b253d6145a2e090c5105a29cbaf5bea">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/events/agu-fall-meeting" typeof="sioc:Item foaf:Document" class="ds-1col node node-event  view-mode-tiny_teaser  clearfix">
+
+  
+  <div class="field field-name-field-date field-type-datetime field-label-hidden text-muted"><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-12-11T00:00:00-06:00">December 11, 2017</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-12-15T00:00:00-06:00">December 15, 2017</span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden go-icon-calendar"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/events/agu-fall-meeting">AGU Fall Meeting</a></h3></div></div></div><div class="field field-name-field-event-venue field-type-entityreference field-label-hidden text-muted"><div class="field-items"><div class="field-item even"><div  class="ds-1col taxonomy-term vocabulary-venues view-mode-tiny_teaser_venue clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><span>New Orleans Ernest N. Morial Convention Center</span></div></div></div></div>
+
+</div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  about="/events/globusworld-tour-stanford-university" typeof="sioc:Item foaf:Document" class="ds-1col node node-event  view-mode-tiny_teaser  clearfix">
+
+  
+  <div class="field field-name-field-date field-type-datetime field-label-hidden text-muted"><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2018-02-08T12:30:00-08:00">February 8, 2018</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2018-02-09T15:00:00-08:00">February 9, 2018</span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden go-icon-calendar"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/events/globusworld-tour-stanford-university">GlobusWorld Tour - Stanford University</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div  about="/events/globusworld-2018" typeof="sioc:Item foaf:Document" class="ds-1col node node-event  view-mode-tiny_teaser  clearfix">
+
+  
+  <div class="field field-name-field-date field-type-datetime field-label-hidden text-muted"><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2018-04-25T00:00:00-05:00">April 25, 2018</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2018-04-26T00:00:00-05:00">April 26, 2018</span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden go-icon-calendar"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/events/globusworld-2018">GlobusWorld 2018</a></h3></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    View More Events  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+  </div>
+          </div>
+                              <div id="pre-footer-second" class="col-xs-12 col-sm-6">
+              <div class="region region-prefooter-second">
+    <section id="block-views-news-block-front-news" class="block block-views clearfix">
+
+        <h2 class="block-title">News</h2>
+    
+  <div class="view view-news view-id-news view-display-id-block_front_news view-dom-id-cb7b45a42d7452385473b278cb2e7302">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div  about="/in-the-news/globus-supports-esnet%E2%80%99s-petascale-dtn-project" typeof="sioc:Item foaf:Document" class="ds-1col node node-in-the-news  view-mode-tiny_teaser  clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/in-the-news/globus-supports-esnet%E2%80%99s-petascale-dtn-project">Globus Supports ESnet’s Petascale DTN Project </a></h3></div></div></div><div class="field field-name-publish-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">December 11, 2017 | <strong></strong></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h4>ESnet’s Petascale DTN Project Speeds up Data Transfers between Leading HPC Centers</h4></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/in-the-news/globus-supports-esnet%E2%80%99s-petascale-dtn-project" class="">Read more ≫</a></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    View More News  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+  </div>
+          </div>
+                </div>
+    </div></section>
+  
+  </div>
+</div>
+
+  <!-- Featured User Stories Carousel -->
+  <div class="container ">
+    <div class="row"><div class="col-xs-12">
+      <h3 class="text-center">Featured User Stories</h3>
+        <div class="carousel">
+                    <div><a href="https://www.globus.org/user-story-blue-waters-ncsa"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_blue-waters-ncsa.png" alt="NCSA Blue Waters" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/star"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_brookhaven.png" alt="Brookhaven National Laboratory" /></a></div>
+          <div><a href="https://www.globus.org/Kilts-Center-Booth-School-of-Business-UChicago"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_chicago-booth-kilts.png" alt="Chicago Booth Kilts Center for Marketing" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/ibiucsc"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_chicago.png" alt="The University of Chicago" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/ucolorado"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_colorado-boulder.png" alt="University of Colorado Boulder" /></a></div>
+          <div><a href="https://www.globus.org/developing-federated-research-data-repository-canada"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_frdr-dfdr.png" alt="FRDR DFDR" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/milc"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_milc.png" alt="MILC" /></a></div>
+          <div><a href="https://edge.spectralogic.com/index.cfm?fuseaction=home.displayFile&DocID=4674" target="_blank"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_minnesota.png" alt="University of Minnesota" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/nersc"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_nersc.png" alt="NERSC" /></a></div>
+          <div><a href="https://aws.amazon.com/solutions/case-studies/new-york-university/" target="_blank"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_nyu-langone.png" alt="NYU Langone" /></a></div>
+          <div><a href="http://terraref.org/" target="_blank"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_terra-ref.png" alt="TERRA-REF" /></a></div>
+          <div><a href="https://www.globus.org/case-studies/semel-ucla"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_ucla-semel.png" alt="UCLA Semel Institute" /></a></div>
+          <div><a href="https://www.globus.org/user-story-west-virginia-university"><img src="sites/all/themes/globus_bootstrap_theme/user_stories_imgs/cs_west-virginia.png" alt="West Virginia University" /></a></div>
+          <!--<div><a href="" target="_blank"><img src="" alt="Cornell University" /></a></div>
+          <div><a href="" target="_blank"><img src="" alt="University of Exeter" /></a></div>
+          <div><a href="" target="_blank"><img src="" alt="University of Miami" /></a></div>
+          <div><a href="" target="_blank"><img src="" alt="NCSA" /></a></div>-->
+        </div> <!-- / .carousel -->
+      <p class="more-link text-right"><a href="/user-stories">Learn more</a></p>
+    </div></div> <!-- /row -->
+  </div> <!-- /container -->
+
+  <footer class="footer"><div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <div id="footer_first" class="row">
+            <div class="region region-footer-first">
+    <section id="block-menu-block-6" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-6 menu-name-menu-footer-menu parent-mlid-1283 menu-level-1">
+  <li class="first expanded menu-mlid-1284"><a href="/researchers">Globus for Researchers</a><ul><li class="first leaf menu-mlid-1285"><a href="https://docs.globus.org/how-to/get-started/">Getting Started</a></li>
+<li class="last leaf menu-mlid-1286"><a href="/researchers/plus-plans">Globus Plus</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-1287"><a href="/globus-connect">Globus Connect</a><ul><li class="first leaf menu-mlid-1288"><a href="/globus-connect-personal">Globus Connect Personal</a></li>
+<li class="last leaf menu-mlid-1289"><a href="/globus-connect-server">Globus Connect Server</a></li>
+</ul></li>
+</div>
+
+</section>
+<section id="block-menu-block-7" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-7 menu-name-menu-footer-menu parent-mlid-1290 menu-level-1">
+  <li class="first last expanded menu-mlid-1291"><a href="/providers">Globus for Resource Providers</a><ul><li class="first leaf menu-mlid-1292"><a href="/providers/get-started">Getting Started</a></li>
+<li class="leaf menu-mlid-1293"><a href="/subscriptions">Subscriptions</a></li>
+<li class="last leaf menu-mlid-1294"><a href="/subscriptions/non-profit-subscription-inquiry">Sign Up</a></li>
+</ul></li>
+</div>
+
+</section>
+<section id="block-menu-block-8" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-8 menu-name-menu-footer-menu parent-mlid-1296 menu-level-1">
+  <li class="first leaf menu-mlid-1297"><a href="/platform">Globus Platform</a></li>
+<li class="leaf menu-mlid-1300"><a href="/toolkit">Globus Toolkit</a></li>
+<li class="last leaf menu-mlid-1295"><a href="http://www.globusgenomics.org">Globus Genomics</a></li>
+</div>
+
+</section>
+  </div>
+        </div>
+        <div id="footer_second" class="row">
+            <div class="region region-footer-second">
+    <section id="block-menu-block-9" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-9 menu-name-menu-footer-menu parent-mlid-1310 menu-level-1">
+  <li class="first last expanded menu-mlid-1311"><a class="nolink">Primers</a><ul><li class="first leaf menu-mlid-1312"><a href="/data-transfer">File Transfer</a></li>
+<li class="leaf menu-mlid-1313"><a href="/data-sharing">File Sharing</a></li>
+<li class="leaf menu-mlid-1314"><a href="https://docs.globus.org/how-to/managing-groups/">Group Management</a></li>
+<li class="last leaf menu-mlid-1315"><a href="/how-it-works">How Globus Works</a></li>
+</ul></li>
+</div>
+
+</section>
+<section id="block-menu-block-10" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-10 menu-name-menu-footer-menu parent-mlid-1316 menu-level-1">
+  <li class="first last expanded menu-mlid-1317"><a class="nolink">News</a><ul><li class="first leaf menu-mlid-1318"><a href="/blog">Blog</a></li>
+<li class="leaf menu-mlid-1319"><a href="/in-the-news">In The News</a></li>
+<li class="leaf menu-mlid-1320"><a href="/press-releases">Press Releases</a></li>
+<li class="last leaf menu-mlid-1321"><a href="/events">Events</a></li>
+</ul></li>
+</div>
+
+</section>
+<section id="block-menu-block-11" class="block block-menu-block col-sm-4 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-11 menu-name-menu-footer-menu parent-mlid-1322 menu-level-1">
+  <li class="first last expanded menu-mlid-1323"><a class="nolink">About</a><ul><li class="first leaf menu-mlid-1324"><a href="/our-story">About Us</a></li>
+<li class="leaf menu-mlid-1334"><a href="/user-stories">User Stories</a></li>
+<li class="leaf menu-mlid-1325"><a href="/publications">Publications</a></li>
+<li class="last leaf menu-mlid-1335"><a href="/jobs">Jobs</a></li>
+</ul></li>
+</div>
+
+</section>
+  </div>
+        </div>
+      </div>
+
+      <div class="col-md-3">
+        <div id="footer_third" class="row">
+          <div class="col-xs-12"><div id="search-container" class="navbar-form">
+<script>
+  (function() {
+    var cx = '017434833089903533984:ttjhkuimgv8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+</div>
+            <div class="region region-footer-third">
+    <section id="block-menu-block-12" class="block block-menu-block col-xs-12 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-12 menu-name-menu-footer-menu parent-mlid-1301 menu-level-1">
+  <li class="first last expanded menu-mlid-1302"><a class="nolink">Support</a><ul><li class="first leaf menu-mlid-1304"><a href="https://docs.globus.org/how-to" class="zendeskLink">How To</a></li>
+<li class="leaf menu-mlid-1307"><a href="https://docs.globus.org/faq" class="zendeskLink">FAQs</a></li>
+<li class="leaf menu-mlid-1327"><a href="https://docs.globus.org/resource-provider-guide/">Provider Documentation</a></li>
+<li class="leaf menu-mlid-1490"><a href="https://docs.globus.org">docs.globus.org</a></li>
+<li class="last leaf menu-mlid-1309"><a href="https://support.globusonline.org/requests" class="zendeskLink">Check Support Tickets</a></li>
+</ul></li>
+</div>
+
+</section>
+  </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div id="footer_fourth">
+          <div class="region region-footer-fourth">
+    <section id="block-block-7" class="block block-block clearfix">
+
+      
+  <div class="col-sm-12 inst-logos row-fluid clearfix">
+<!-- <a href="http://ci.uchicago.edu" target="_blank" class="col-xs-12 col-sm-4 col-lg-2">
+<img alt="ci.uchicago.edu" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__38 img__view_mode__media_original attr__format__media_original" height="70" sizes="146px" src="/sites/default/files/logo_CI@1x.png" srcset="/sites/default/files/logo_CI@2x.png 294w, /sites/default/files/logo_CI@1x.png 147w" typeof="foaf:Image" width="147" /></a> -->
+<a href="http://uchicago.edu" target="_blank" class="col-xs-12 col-sm-4 col-lg-2">
+<img alt="uchicago.edu" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__49 img__view_mode__media_original attr__format__media_original" height="70" sizes="151px" src="/sites/default/files/logo_UC_1.png" srcset="/sites/default/files/logo_UC@2x.png 302w, /sites/default/files/logo_UC@1x.png 151w" typeof="foaf:Image" width="151" /></a>
+<a href="http://www.anl.gov" target="_blank" class="col-xs-12 col-sm-4 col-lg-2">
+<img alt="anl.gov" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__50 img__view_mode__media_original attr__format__media_original" height="70" sizes="129px" src="/sites/default/files/logo_ANL_1.png" srcset="/sites/default/files/logo_ANL@2x.png 258w, /sites/default/files/logo_ANL@1x.png 129w" typeof="foaf:Image" width="129" /></a>
+<a href="http://nih.gov" target="_blank" class="col-xs-6 col-sm-2 col-lg-1">
+<img alt="nih.gov" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__51 img__view_mode__media_original attr__format__media_original" height="70" sizes="70px" src="/sites/default/files/logo_NIH@1x.png" srcset="/sites/default/files/logo_NIH@2x.png 140w, /sites/default/files/logo_NIH@1x.png 70w" typeof="foaf:Image" width="70" /></a>
+<a href="http://nsf.gov" target="_blank" class="col-xs-6 col-sm-2 col-lg-1"><img alt="nsf.gov" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__52 img__view_mode__media_original attr__format__media_original" height="70" sizes="70px" src="/sites/default/files/logo_NSF_1.png" srcset="/sites/default/files/logo_NSF@2x.png 140w, /sites/default/files/logo_NSF@1x.png 70w" typeof="foaf:Image" width="70" /></a>
+<a href="http://energy.gov" target="_blank" class="col-xs-6 col-sm-2 col-lg-1"><img alt="energy.gov" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__53 img__view_mode__media_original attr__format__media_original" height="70" sizes="70px" src="/sites/default/files/logo_DOE_1.png" srcset="/sites/default/files/logo_DOE@2x.png 140w, /sites/default/files/logo_DOE@1x.png 70w" typeof="foaf:Image" width="70" /></a>
+<a href="http://www.sloan.org/" target="_blank" class="col-xs-6 col-sm-2 col-lg-1"><img alt="sloan" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__53 img__view_mode__media_original attr__format__media_original" height="70" sizes="70px" src="/sites/default/files/logo_APS@1x.png" srcset="/sites/default/files/logo_APS@2x.png 140w, /sites/default/files/logo_APS@1x.png 70w" typeof="foaf:Image" width="70" /></a>
+<a class="col-xs-12 col-sm-4 col-lg-2" href="http://aws.amazon.com/" target="_blank">
+<img alt="aws.amazon.com" class="img-responsive center-block media-image attr__typeof__foaf:Image img__fid__52 img__view_mode__media_original attr__format__media_original" height="70" sizes="214px" src="/sites/default/files/logo_AWS@1x_1.png" srcset="/sites/default/files/logo_AWS@2x_1.png 214w, /sites/default/files/logo_AWS@1x_1.png 107w" typeof="foaf:Image" width="107" /></a>
+</div>
+
+<div class="copyright-line col-sm-12">
+<div class="follow-us"><a class="logo-social-media fb-link" href="https://www.facebook.com/pages/Globus-Online/170694752962808">&nbsp;</a><a class="logo-social-media twitter-link" href="https://twitter.com/globusonline">&nbsp;</a>Follow us on</div>
+
+<p>© 2010-2017 The University of Chicago <a href="/legal">Legal</a></p>
+</div>
+</section>
+  </div>
+      </div>
+    </div>
+  </div></footer>
+</div>
+<script type="text/javascript" src="/sites/all/themes/globus_bootstrap_theme/slick/slick.min.js"></script>  <script src="https://www.globus.org/sites/default/files/js/js_FbpwIZNwgzwEuuL4Q2HOM07BOSCY5LxL_gwSK4ohQBM.js"></script>
+</body>
+</html>
