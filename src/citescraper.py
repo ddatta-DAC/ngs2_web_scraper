@@ -57,6 +57,8 @@ def get_record(doi):
     soup = BeautifulSoup(response.content, "html.parser")
 
     record = {
+        'doi': doi,
+        'pdf_url': "http://citeseerx.ist.psu.edu/viewdoc/download?doi={}&rep=rep1&type=pdf".format(doi),
         'authors': [],
     }
 
