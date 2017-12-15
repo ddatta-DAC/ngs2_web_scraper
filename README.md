@@ -15,7 +15,7 @@ python src/scraper_1.py  10 collective identity
 
 # Metadata scraper
 
-python src/citescraper.py 10.1.1.874.7127
+`python src/citescraper.py 10.1.1.874.7127`
 
 ### Sample (abbreviated) output
 
